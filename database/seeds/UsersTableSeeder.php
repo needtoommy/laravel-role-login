@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\DB;
 use App\User;
 use App\Role;
 
-class UserTableSeeders extends Seeder
+class UsersTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
